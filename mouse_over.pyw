@@ -3,6 +3,7 @@ import random
 import time
 import sys
 
+pyautogui.FAILSAFE = False
 
 print("program has started")
 
